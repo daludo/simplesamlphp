@@ -57,7 +57,7 @@ process priority.
 
 `cron` functionality can be invoked by making an HTTP request to the
 cron module.  Use your web browser to go to
-`https://YOUR_SERVER/simplesaml/module.php/cron/croninfo.php`. Make
+`https://YOUR_SERVER/simplesaml/module.php/cron/info`. Make
 sure to properly set your server's address, as well as use HTTP or
 HTTPS accordingly, and also to specify the correct path to the root of
 your SimpleSAMLphp installation.
